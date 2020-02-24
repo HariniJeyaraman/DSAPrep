@@ -14,3 +14,5 @@ https://www.sanfoundry.com/c-mcqs-string-operations/
 https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/
 
 https://www.sanfoundry.com/data-science-questions-answers-raw-processed-data/
+
+https://www.sanfoundry.com/java-mcqs-class-fundamental-declaring-objects/
