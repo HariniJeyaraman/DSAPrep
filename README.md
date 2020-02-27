@@ -19,7 +19,7 @@ https://www.sanfoundry.com/java-mcqs-class-fundamental-declaring-objects/
 
 Day 2: 27-02-20
 
-1 . Reversing the words in a given string
+1. Reversing the words in a given string
 
 2. Counting the number of set bits in an integer
 
