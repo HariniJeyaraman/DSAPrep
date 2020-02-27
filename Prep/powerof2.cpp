@@ -1,8 +1,10 @@
+//To find if a given number is a power of 2
 #include<iostream>
 #include<stdlib.h>
 #include<cmath>
 using namespace std;
 
+//Checking if log base 2 of the number is an integer or not
 int powerOf2(int n)
 {
     if(n==0)
