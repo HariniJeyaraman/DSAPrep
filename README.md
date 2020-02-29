@@ -29,5 +29,9 @@ Day 3: 29-02-20
 
 https://www.geeksforgeeks.org/finding-sum-of-digits-of-a-number-until-sum-becomes-single-digit/
 
+2. Number of Occurences of 2 as a digit in numbers from 0 to n
+
+https://www.geeksforgeeks.org/number-of-occurrences-of-2-as-a-digit-in-numbers-from-0-to-n/
+
 
 
