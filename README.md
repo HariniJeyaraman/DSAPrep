@@ -23,6 +23,11 @@ Day 2: 27-02-20
 
 2. Counting the number of set bits in an integer
 
+Day 3: 29-02-20
+
+1. Repeated integer sum of digits
+
+https://www.geeksforgeeks.org/finding-sum-of-digits-of-a-number-until-sum-becomes-single-digit/
 
 
 
