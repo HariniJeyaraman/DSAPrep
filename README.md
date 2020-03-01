@@ -33,5 +33,12 @@ https://www.geeksforgeeks.org/finding-sum-of-digits-of-a-number-until-sum-become
 
 https://www.geeksforgeeks.org/number-of-occurrences-of-2-as-a-digit-in-numbers-from-0-to-n/
 
+Day 4: 01-03-20
+
+1. Two Sum Problem
+
+https://algodaily.com/lessons/using-the-two-pointer-technique
+
+
 
 
