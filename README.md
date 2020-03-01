@@ -39,6 +39,10 @@ Day 4: 01-03-20
 
 https://algodaily.com/lessons/using-the-two-pointer-technique
 
+2. Sum of all numbers present in a string
+
+https://www.geeksforgeeks.org/calculate-sum-of-all-numbers-present-in-a-string/
+
 
 
 
