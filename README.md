@@ -49,5 +49,10 @@ Day 5: 16-03-20
 
 https://www.youtube.com/watch?v=UV_NtBamWMc
 
+2. Max of Min pairs
+
+https://www.geeksforgeeks.org/maximum-sum-of-minimums-of-pairs-in-an-array/
+
+
 
 
