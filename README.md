@@ -43,6 +43,11 @@ https://algodaily.com/lessons/using-the-two-pointer-technique
 
 https://www.geeksforgeeks.org/calculate-sum-of-all-numbers-present-in-a-string/
 
+Day 5: 16-03-20
+
+1. Segregate positive and negative numbers in an array in O(n)
+
+https://www.youtube.com/watch?v=UV_NtBamWMc
 
 
 
