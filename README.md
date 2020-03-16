@@ -53,6 +53,8 @@ https://www.youtube.com/watch?v=UV_NtBamWMc
 
 https://www.geeksforgeeks.org/maximum-sum-of-minimums-of-pairs-in-an-array/
 
+https://algodaily.com/challenges/max-of-min-pairs
+
 
 
 
