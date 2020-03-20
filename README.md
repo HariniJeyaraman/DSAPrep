@@ -56,5 +56,8 @@ https://www.geeksforgeeks.org/maximum-sum-of-minimums-of-pairs-in-an-array/
 https://algodaily.com/challenges/max-of-min-pairs
 
 
+Day 6 : 20-03-20
+
+1. QuickSort
 
 
