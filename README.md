@@ -1,4 +1,10 @@
 # DSAPrep
+Links to refer to:
+
+https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222
+
+https://leetcode.com/problemset/top-interview-questions/?difficulty=Easy
+
 My prep review material
 
 Day 1: 24-02-20
