@@ -60,4 +60,10 @@ Day 6 : 20-03-20
 
 1. QuickSort
 
+Day 7 : 25-03-20
+
+1. Move all zeroes present in an array to the end
+
+https://www.techiedelight.com/move-zeros-present-array-end/
+
 
