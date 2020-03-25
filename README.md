@@ -74,7 +74,7 @@ https://www.techiedelight.com/move-zeros-present-array-end/
 
 Day 8 : 26-03-20
 
-Segregate odd and even numbers in an array
+1. Segregate odd and even numbers in an array
 
 https://www.geeksforgeeks.org/segregate-even-and-odd-numbers/
 
