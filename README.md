@@ -66,6 +66,8 @@ Day 6 : 20-03-20
 
 1. QuickSort
 
+2. Recursive Bubble Sort
+
 Day 7 : 25-03-20
 
 1. Move all zeroes present in an array to the end
