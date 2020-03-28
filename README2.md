@@ -26,7 +26,7 @@ https://algodaily.com/companies/adobe#questions
 
 https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/
 
-***Puzzle***
+***Puzzle 2***
 
 https://www.geeksforgeeks.org/puzzle-truth-lie/
 
