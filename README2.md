@@ -30,7 +30,11 @@ https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-a
 
 https://www.geeksforgeeks.org/puzzle-truth-lie/
 
-**Day 12 : 29-03-20***
+**Day 12 : 29-03-20**
+
+1. A Product Array Puzzle
+
+https://www.geeksforgeeks.org/a-product-array-puzzle/
 
 
 
