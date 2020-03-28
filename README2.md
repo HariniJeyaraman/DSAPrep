@@ -6,7 +6,7 @@ https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/
 
 **Day 10 : 27-03-20**
 
-**__Puzzle 1__**
+***Puzzle 1***
 
 https://www.geeksforgeeks.org/puzzle-strict-pill-schedule/
 
@@ -26,11 +26,13 @@ https://algodaily.com/companies/adobe#questions
 
 https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/
 
-Puzzle 
+***Puzzle***
 
 https://www.geeksforgeeks.org/puzzle-truth-lie/
 
-Day 12 : 
+**Day 12 : 29-03-20***
+
+
 
 
 
