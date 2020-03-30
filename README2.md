@@ -32,9 +32,15 @@ https://www.geeksforgeeks.org/puzzle-truth-lie/
 
 **Day 12 : 29-03-20**
 
-1. A Product Array Puzzle
+**__1. A Product Array Puzzle__**
 
 https://www.geeksforgeeks.org/a-product-array-puzzle/
+
+***Puzzle 3***
+
+https://puzzlersworld.com/interview-puzzles/jelly-beans/
+
+
 
 
 
