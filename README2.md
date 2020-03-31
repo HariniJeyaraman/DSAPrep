@@ -54,5 +54,9 @@ https://www.youtube.com/watch?v=_sls9AdBymI
 
 https://puzzlersworld.com/interview-puzzles/balls-in-a-bag/
 
+**__1. Set Matrix Zeroes__**
+
+https://www.youtube.com/watch?v=6_KMkeh5kEc
+
 
 
