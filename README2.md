@@ -66,3 +66,10 @@ https://www.youtube.com/watch?v=6_KMkeh5kEc
 https://www.geeksforgeeks.org/median-of-two-sorted-arrays/
 (Naive approach of merging the 2 arrays into 1 sorted array and then finding the median - > O(n)
 and Divide and Conquer approach of finding the median using m1 and m2 - > O(log n)
+
+**Day 16 : 02-04-20**
+
+**__1.Wave Sort __**
+
+https://www.geeksforgeeks.org/sort-array-wave-form-2/
+
