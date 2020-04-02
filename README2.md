@@ -59,4 +59,10 @@ https://puzzlersworld.com/interview-puzzles/balls-in-a-bag/
 https://www.youtube.com/watch?v=6_KMkeh5kEc
 
 
+**Day 15: 01-04-20**
 
+**__1. Median of 2 sorted arrays of same size__**
+
+https://www.geeksforgeeks.org/median-of-two-sorted-arrays/
+(Naive approach of merging the 2 arrays into 1 sorted array and then finding the median - > O(n)
+and Divide and Conquer approach of finding the median using m1 and m2 - > O(log n)
