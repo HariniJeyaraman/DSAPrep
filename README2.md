@@ -69,7 +69,7 @@ and Divide and Conquer approach of finding the median using m1 and m2 - > O(log 
 
 **Day 16 : 02-04-20**
 
-**__1.Wave Sort __**
+**__1.Wave Sort__**
 
 https://www.geeksforgeeks.org/sort-array-wave-form-2/
 
