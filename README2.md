@@ -82,3 +82,11 @@ https://www.geeksforgeeks.org/noble-integers-in-an-array-count-of-greater-elemen
 ***Puzzle 5***
 
 https://puzzlersworld.com/interview-puzzles/two-numbers/
+
+**Day 18 : 04-04-20**
+
+Declaring a 2D vector with user input in C++
+
+https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/
+
+
