@@ -73,3 +73,12 @@ and Divide and Conquer approach of finding the median using m1 and m2 - > O(log 
 
 https://www.geeksforgeeks.org/sort-array-wave-form-2/
 
+**Day 17 : 03-04-20**
+
+**__Noble Integer__**
+
+https://www.geeksforgeeks.org/noble-integers-in-an-array-count-of-greater-elements-is-equal-to-value/
+
+***Puzzle 5***
+
+https://puzzlersworld.com/interview-puzzles/two-numbers/
