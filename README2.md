@@ -89,4 +89,10 @@ Declaring a 2D vector with user input in C++
 
 https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/
 
+**__1. Largest Number__**
+
+https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
+
+
+
 
