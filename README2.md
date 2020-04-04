@@ -93,6 +93,11 @@ https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/
 
 https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
 
+**__2. Fizz Buzz__**
+
+https://www.geeksforgeeks.org/fizz-buzz-implementation/
+
+
 
 
 
