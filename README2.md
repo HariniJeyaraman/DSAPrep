@@ -103,6 +103,9 @@ https://www.geeksforgeeks.org/fizz-buzz-implementation/
 
 https://www.youtube.com/watch?v=aMsSF1Il3IY
 
+2. Palindrome integer
+
+https://www.youtube.com/watch?v=UPdSViixmDs
 
 
 
