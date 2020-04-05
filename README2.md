@@ -99,7 +99,7 @@ https://www.geeksforgeeks.org/fizz-buzz-implementation/
 
 **Day 19 : 05-04-20**
 
-1. Find all duplicates in an array in O(n) time and O(1) space
+1. Find all duplicates in an array in O(n) time and O(1) space where elements of the array are 1 ≤ a[i] ≤ n
 
 https://www.youtube.com/watch?v=aMsSF1Il3IY
 
