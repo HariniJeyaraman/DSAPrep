@@ -97,6 +97,14 @@ https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-f
 
 https://www.geeksforgeeks.org/fizz-buzz-implementation/
 
+**Day 19 : 05-04-20**
+
+1. Find all duplicates in an array in O(n) time and O(1) space
+
+https://www.youtube.com/watch?v=aMsSF1Il3IY
+
+
+
 
 
 
