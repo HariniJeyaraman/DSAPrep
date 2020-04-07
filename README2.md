@@ -107,6 +107,12 @@ https://www.youtube.com/watch?v=aMsSF1Il3IY
 
 https://www.youtube.com/watch?v=UPdSViixmDs
 
+**Day 20 : 07-04-20**
+
+1. Seive of Eratosthenes
+
+https://www.geeksforgeeks.org/sieve-of-eratosthenes/
+
 
 
 
