@@ -24,3 +24,17 @@ int main()
     std::cout<<"The number of trailing zeroes for "<< n <<" ! : "<<trailingZeroes(n)<<"\n";
     return 0;
 }
+
+/*
+For example number of 2's in 9!
+9! = 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 
+No. of 2's :
+9/2 = 4
+4/2 = 2
+2/2 = 1
+No. of 2's is 4+2+1 = 7
+
+No. of 2's = No. of 2's in 2 + No. of 2's in 4 + No. of 2's in 4 + No. of 2's in 6 + No. of 2's in 8
+            (2 = 2^1 , 4 = 2^2 , 6 = 2^1 * 3 , 8 = 2^3)
+           = 1 + 2 + 1 + 3 = 7
+*/ 
