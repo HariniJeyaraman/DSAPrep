@@ -113,6 +113,11 @@ https://www.youtube.com/watch?v=UPdSViixmDs
 
 https://www.geeksforgeeks.org/sieve-of-eratosthenes/
 
+**Day 21 : 08-04-20**
+
+1. Counting trailing zeroes in factorial
+
+https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/
 
 
 
