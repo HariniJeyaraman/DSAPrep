@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=IzHR_U8Ly6c
 Search element in sorted rotated array
 
 https://www.youtube.com/watch?v=QdVrY3stDD4&t=473s
+
+Length of the last word in a string in C++
+
+https://www.geeksforgeeks.org/length-of-last-word-in-a-string/
