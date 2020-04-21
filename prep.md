@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=QdVrY3stDD4&t=473s
 Length of the last word in a string in C++
 
 https://www.geeksforgeeks.org/length-of-last-word-in-a-string/
+
+Remove duplicates from sorted array in place without extra memory 
+
+https://www.youtube.com/watch?v=zIHe2V5Py3U
