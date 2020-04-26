@@ -23,3 +23,9 @@ https://www.youtube.com/watch?v=zIHe2V5Py3U
 Union and Intersection of 2 sorted arrays C++
 
 https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+
+Print matrix in spiral form
+
+https://www.youtube.com/watch?v=TmweBVEL0I0
+
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
