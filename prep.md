@@ -35,3 +35,8 @@ Minimum Steps in Infinite Grid
 https://www.youtube.com/watch?v=ZNh35dFqklM
 
 https://www.geeksforgeeks.org/minimum-steps-needed-to-cover-a-sequence-of-points-on-an-infinite-grid/
+
+Calculating power function in O(logn)
+
+https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
+
