@@ -29,3 +29,9 @@ Print matrix in spiral form
 https://www.youtube.com/watch?v=TmweBVEL0I0
 
 https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+
+Minimum Steps in Infinite Grid
+
+https://www.youtube.com/watch?v=ZNh35dFqklM
+
+https://www.geeksforgeeks.org/minimum-steps-needed-to-cover-a-sequence-of-points-on-an-infinite-grid/
