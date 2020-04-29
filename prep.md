@@ -43,3 +43,8 @@ https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
 Find position of an element in a sorted array of infinite numbers
 
 https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+
+Find local minima in an array
+
+https://www.geeksforgeeks.org/find-local-minima-array/
+
