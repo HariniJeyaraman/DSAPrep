@@ -40,3 +40,6 @@ Calculating power function in O(logn)
 
 https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
 
+Find position of an element in a sorted array of infinite numbers
+
+https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
