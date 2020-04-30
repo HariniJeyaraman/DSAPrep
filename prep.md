@@ -48,3 +48,7 @@ Find local minima in an array
 
 https://www.geeksforgeeks.org/find-local-minima-array/
 
+XOR of all the elements in the given range [L, R]
+
+https://www.geeksforgeeks.org/xor-of-all-the-elements-in-the-given-range-l-r/
+
