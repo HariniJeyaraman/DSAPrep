@@ -9,6 +9,7 @@ void subset(std::vector<int> a)
     std::cout<<"Size of array is : "<<n<<"\n";
     //if there are 3 elements, number of possible subsets is 2^3 = 8
     //therefore if there are n elements, number of possible subsets is 2^n
+    //O(n * 2^n)
     for(int i=0;i<(1<<n);i++)
     {
         //finding binary representation of the number
