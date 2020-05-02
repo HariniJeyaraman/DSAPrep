@@ -52,3 +52,7 @@ XOR of all the elements in the given range [L, R]
 
 https://www.geeksforgeeks.org/xor-of-all-the-elements-in-the-given-range-l-r/
 
+Adding Binary Strings
+
+https://www.geeksforgeeks.org/program-to-add-two-binary-strings/
+
