@@ -60,4 +60,6 @@ Find the middle of the linked list
 
 https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
 
+Remove the nth node from end of the linked list
 
+https://www.geeksforgeeks.org/delete-nth-node-from-the-end-of-the-given-linked-list/
