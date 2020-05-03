@@ -43,6 +43,8 @@ void deleteNode(int pos)
     int i=1;
     if(temp==NULL)
         cout<<"Delete not possible\n";
+    if(pos==1)
+        hptr=hptr->nptr;
     else
     {
         while(i<pos-1)
