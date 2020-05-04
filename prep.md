@@ -63,3 +63,8 @@ https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-link
 Remove the nth node from end of the linked list
 
 https://www.geeksforgeeks.org/delete-nth-node-from-the-end-of-the-given-linked-list/
+
+Longest Common Prefix
+
+https://www.youtube.com/watch?v=1YQmI7F9dJ0&t=531s
+
