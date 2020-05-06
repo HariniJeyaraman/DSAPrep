@@ -9,7 +9,7 @@ Explanation: The binary representation of 5 is 101 (no leading zero bits), and i
 #include<cstdlib>
 #include<cmath>
 
-//Only solution which did not get Run Time Error due to integer overflow
+//solution which did not get Run Time Error due to integer overflow
  int findComplement1(int num) {
         if(num==0)
             return 1;
@@ -33,7 +33,7 @@ int findComplement2(int num)
     return (num_with_all_ones^num);
 }
 
-//Got integer Overflow
+//solution which did not get Run Time Error due to integer overflow
 int findComplement3(int num)
 {
     if(num==0)
