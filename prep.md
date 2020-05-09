@@ -71,3 +71,8 @@ https://www.youtube.com/watch?v=1YQmI7F9dJ0&t=531s
 Sort string by frequency of its characters
 
 https://www.youtube.com/watch?v=QrM2ofM5Dz4
+
+Single Number II
+
+https://www.youtube.com/watch?v=ny1tk1AkON8
+
