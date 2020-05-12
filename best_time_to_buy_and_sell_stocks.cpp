@@ -25,7 +25,9 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 int maxProfit(std::vector<int>& prices) {
         int max=0;
-        int min=INT8_MAX;
+        int min=prices[0];//INT8_MAX;
+        if(prices.size()==0)
+            return 0;
         for(int i=0;i<prices.size();i++)
         {
             if(prices[i]<min)
