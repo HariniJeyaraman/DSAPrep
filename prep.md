@@ -83,3 +83,12 @@ https://www.youtube.com/watch?v=uHAToNgAPaM
 Best Time to buy and sell stock
 
 https://www.youtube.com/watch?v=mj7N8pLCJ6w&t=196s
+
+Longest Common Subsequence
+
+https://www.geeksforgeeks.org/cpp-program-for-longest-common-subsequence/
+
+https://www.youtube.com/watch?v=NnD96abizww
+
+https://www.youtube.com/watch?v=43P0xZp3FU4
+
