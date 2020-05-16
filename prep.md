@@ -92,3 +92,9 @@ https://www.youtube.com/watch?v=NnD96abizww
 
 https://www.youtube.com/watch?v=43P0xZp3FU4
 
+Longest Increasing Subsequence
+
+https://www.youtube.com/watch?v=CE2b_-XfVDk&t=139s
+
+https://www.youtube.com/watch?v=E6us4nmXTHs
+
