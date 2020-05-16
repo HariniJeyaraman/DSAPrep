@@ -98,3 +98,9 @@ https://www.youtube.com/watch?v=CE2b_-XfVDk&t=139s
 
 https://www.youtube.com/watch?v=E6us4nmXTHs
 
+Reverse a linked list using 2 pointers using XOR :
+
+https://www.geeksforgeeks.org/iteratively-reverse-a-linked-list-using-only-2-pointers/
+
+https://iq.opengenus.org/p/8046f2c5-2cc6-4df0-b343-dd4f4a69d567/
+
