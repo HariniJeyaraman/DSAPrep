@@ -104,3 +104,6 @@ https://www.geeksforgeeks.org/iteratively-reverse-a-linked-list-using-only-2-poi
 
 https://iq.opengenus.org/p/8046f2c5-2cc6-4df0-b343-dd4f4a69d567/
 
+Merge two sorted linked lists
+
+https://www.youtube.com/watch?v=K63Mjf-H0B0
