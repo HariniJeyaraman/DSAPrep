@@ -111,3 +111,9 @@ https://www.youtube.com/watch?v=K63Mjf-H0B0
 Check if two given strings are anagrams
 
 https://leetcode.com/problems/valid-anagram/solution/
+
+Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+
+https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/
+
+https://www.youtube.com/watch?v=p-O7FExDH1M
