@@ -16,9 +16,9 @@ Explanation: You need to sort [6, 4, 8, 10, 9] in ascending order to make the wh
 #include<bits/stdc++.h>
 using namespace std;
 
-int findUnsortedSubarray(vector<int>& nums) {
+ int findUnsortedSubarray(vector<int>& nums) {
         int start=-1, end=-1;
-        int n =nums.size();
+        int n=nums.size();
         for(int i=0;i<n-1;i++)
         {
             if(nums[i]>nums[i+1])
@@ -36,36 +36,34 @@ int findUnsortedSubarray(vector<int>& nums) {
                 break;
             }
         }
-       if(start==-1 || end==-1) //whole array is sorted ! so no unsorted subarray is present to sort
+        
+        if(start==-1 || end==-1) //The array is already fully sorted and we cannot find any subarray which is unsorted
             return 0;
         
-        int max=*max_element(nums.begin()+start, nums.begin()+end+1);
-        int min=*min_element(nums.begin()+start, nums.begin()+end+1);
-       // int max = nums[start], min = nums[start]; 
-       //  for(int i = start + 1; i <= end; i++) 
-       //  { 
-       //      if(nums[i] > max) 
-       //      max = nums[i]; 
-       //      if(nums[i] < min) 
-       //      min = nums[i]; 
-       //  } 
+        //Now we need to find the max and min element from start to end and make sure that all elements from
+        // 0 to start are < min of all elements from start to end and,
+        // all elements from end to n-1 are > max of all elements from start to end
+        int maxElement=*max_element(nums.begin()+start, nums.begin()+end+1);
+        int minElement=*min_element(nums.begin()+start, nums.begin()+end+1);
+        
         for(int i=0;i<start;i++)
         {
-            if(nums[i]>min)
+            if(nums[i]>minElement)
             {
                 start=i;
                 break;
             }
         }
+        
         for(int i=n-1;i>end;i--)
         {
-            if(nums[i]<max)
+            if(nums[i]<maxElement)
             {
                 end=i;
                 break;
             }
         }
-        return end-start+1;
+        return (end-start+1);
     }
 
 int main()
