@@ -125,3 +125,7 @@ https://www.youtube.com/watch?v=TI3e-17YAlc
 Swap List Nodes in pairs
 
 https://www.youtube.com/watch?v=jiLloHVmLDc
+
+Detect Linked List Cycle
+
+https://www.youtube.com/watch?v=6OrZ4wAy4uE
