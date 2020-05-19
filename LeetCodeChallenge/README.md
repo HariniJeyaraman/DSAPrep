@@ -8,3 +8,7 @@ Number Complement
 https://www.youtube.com/watch?v=oURSuMY4zSc
 
 https://www.youtube.com/watch?v=FIGLWWHnwLQ
+
+Odd Even Linked List
+
+https://www.youtube.com/watch?v=C_LA6SOwVTM
