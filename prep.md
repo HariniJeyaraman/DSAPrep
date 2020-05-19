@@ -121,3 +121,7 @@ https://www.youtube.com/watch?v=p-O7FExDH1M
 Container with most water 
 
 https://www.youtube.com/watch?v=TI3e-17YAlc
+
+Swap List Nodes in pairs
+
+https://www.youtube.com/watch?v=jiLloHVmLDc
