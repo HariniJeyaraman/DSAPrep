@@ -50,3 +50,24 @@ public:
         return head;
     }
 };
+
+//Similar solution in better format :
+class Solution {
+public:
+    ListNode* oddEvenList(ListNode* head) {
+       if(head==NULL || head->next==NULL)
+           return head;
+        struct ListNode *odd=head;
+        struct ListNode *even=head->next;
+        struct ListNode *evenStart=even;
+        while(even!=NULL && even->next!=NULL)
+        {
+            odd->next=even->next;
+            odd=odd->next;
+            even->next=odd->next;
+            even=even->next;
+        }
+        odd->next=evenStart;
+        return head;
+    }
+};
