@@ -129,3 +129,7 @@ https://www.youtube.com/watch?v=jiLloHVmLDc
 Detect Linked List Cycle
 
 https://www.youtube.com/watch?v=6OrZ4wAy4uE
+
+Finding the start of the loop in a linked list
+
+https://www.youtube.com/watch?v=zbozWoMgKW0
