@@ -137,3 +137,9 @@ https://www.youtube.com/watch?v=zbozWoMgKW0
 Convert Sorted Array to Binary Search Tree :
 
 https://www.youtube.com/watch?v=12omz-VAyRk
+
+Diameter of a Binary Tree
+
+https://www.youtube.com/watch?v=rm2WE0MCJ6k
+
+https://www.youtube.com/watch?v=GJg2EYolN-E
