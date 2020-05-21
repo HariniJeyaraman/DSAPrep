@@ -133,3 +133,7 @@ https://www.youtube.com/watch?v=6OrZ4wAy4uE
 Finding the start of the loop in a linked list
 
 https://www.youtube.com/watch?v=zbozWoMgKW0
+
+Convert Sorted Array to Binary Search Tree :
+
+https://www.youtube.com/watch?v=12omz-VAyRk
