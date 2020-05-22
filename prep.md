@@ -143,3 +143,7 @@ Diameter of a Binary Tree
 https://www.youtube.com/watch?v=rm2WE0MCJ6k
 
 https://www.youtube.com/watch?v=GJg2EYolN-E
+
+Verifying Alien Dictionary
+
+https://www.youtube.com/watch?v=qSbJZWENtX4
