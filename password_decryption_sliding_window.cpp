@@ -72,7 +72,8 @@ bool validatePassword(string P, string S)
         return true;
     
     //shifting the window of fixed length (length of P) by increasing r and l and adding S[r] to hash and removing S[l] from hash
-    for(int i=r+1;i<S.size();i++)
+    r++;
+    while(r<S.size())
     {
         hash2[S[l]]--;
         l++;
