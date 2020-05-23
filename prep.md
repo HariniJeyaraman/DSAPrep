@@ -151,3 +151,7 @@ https://www.youtube.com/watch?v=qSbJZWENtX4
 Grids Unique Paths
 
 https://www.youtube.com/watch?v=6qMFjFC9YSc
+
+Search in row wise column wise sorted matrix
+
+https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
