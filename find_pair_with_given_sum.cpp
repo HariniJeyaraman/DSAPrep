@@ -35,25 +35,27 @@ vector<int> findSum(vector<int> nums, int target)
     map<int, int> mp;
     target=target-30;
     vector<int> result;
-    int max1=-999, max2=-999;
+    int maxVal=-999,max1=-999,max2=-999;
     if(nums.size()<2)
         return result;
     for(int i=0;i<nums.size();i++)
     {
         if(mp.find(target-nums[i])!=mp.end())
         {
-            if(i>max2 && mp[target-nums[i]]>max1)
+            if(i>maxVal || mp[target-nums[i]]>maxVal)
             {
-                max2=i;
-                max1=mp[target-nums[i]];
+                maxVal=max(i, mp[target-nums[i]]);
+                max1=i;
+                max2=mp[target-nums[i]];
                 // result.push_back(i);
                 // result.push_back(mp[target-nums[i]]);
             }
         }
-        //We only need the bigger pair
+        
         if(mp.find(nums[i])==mp.end())
             mp[nums[i]]=i;
     }
+    //We only need the bigger pair
     result.push_back(max2);
     result.push_back(max1);
     return result;
