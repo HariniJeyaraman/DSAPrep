@@ -81,4 +81,3 @@ Day 8 : 26-03-20
 https://www.geeksforgeeks.org/segregate-even-and-odd-numbers/
 
 
-
