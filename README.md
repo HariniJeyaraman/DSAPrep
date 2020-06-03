@@ -79,5 +79,3 @@ Day 8 : 26-03-20
 1. Segregate odd and even numbers in an array
 
 https://www.geeksforgeeks.org/segregate-even-and-odd-numbers/
-
-
