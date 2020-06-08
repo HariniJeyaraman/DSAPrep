@@ -47,6 +47,7 @@ public:
        for(int i=0;i<logs.size();i++)
        {
            int pos = logs[i].find_first_of(' ');
+           //If no matches are found, the function returns string::npos.
            if(pos!=string::npos)
            {
                if(isdigit(logs[i][pos+1])!=0)
