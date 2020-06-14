@@ -1,4 +1,5 @@
 //Microsoft OA 2019
+//https://leetcode.com/discuss/interview-question/365872/
 #include<iostream>
 #include<cstdlib>
 #include<vector>
