@@ -48,3 +48,28 @@ public:
         return minLen==INT_MAX?0:minLen;
     }
 };
+
+//O(n) solution usng sliding window method 2
+class Solution {
+public:
+    int minSubArrayLen(int k, vector<int>& nums) {
+        if(nums.size()==0)
+            return 0;
+        int sum=nums[0],i=0,j=0,minlen=INT_MAX;
+        while(j<nums.size()&& i<=j){
+         if(sum>=k){
+             minlen=min(minlen,j-i+1);
+             sum-=nums[i];
+             i++;
+             if(i>=nums.size()) break;
+         }
+         if(sum<k){
+             j++;
+             if(j>=nums.size()) break;
+             sum+=nums[j];
+         }
+             
+        }
+        return minlen==INT_MAX?0:minlen;
+    }
+};
