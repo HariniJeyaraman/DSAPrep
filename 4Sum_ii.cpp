@@ -22,7 +22,8 @@ The two tuples are:
 1. (0, 0, 0, 1) -> A[0] + B[0] + C[0] + D[1] = 1 + (-2) + (-1) + 2 = 0
 2. (1, 1, 0, 0) -> A[1] + B[1] + C[0] + D[0] = 2 + (-1) + (-1) + 0 = 0
 */
-
+//4 Sum reduced to 2 Sum
+//Maps ab and cd contain 2Sum values from vectors A,B and C,D, and then we find 2 Sum from the maps ab and cd.
 class Solution {
 public:
     int fourSumCount(vector<int>& A, vector<int>& B, vector<int>& C, vector<int>& D) {
