@@ -43,6 +43,22 @@ int longestSubstringNoRepeat(string s){
     return result;
 }
 
+int longestSubstringNoRepeat2(string s){
+    int start=0, endW=0,result=0;int n;
+        unordered_map<char,int> m;
+        for(endW=0;endW<s.length();endW++){
+            if(m.find(s[endW])!=m.end()){                
+                while(start!=m[s[endW]]) { m.erase(s[start]); start++; }
+                start++;
+                
+            }
+            m[s[endW]] = endW;
+            n = m.size();
+            result = max(result, n);
+        }
+        return result;
+}
+
 int main(){
     cout<<longestSubstringNoRepeat("aabccbb")<<endl;
     cout<<longestSubstringNoRepeat("abbb")<<endl;
