@@ -27,19 +27,19 @@ At any step, whichever pointer gives us the bigger square we add it to the resul
 */
 
 vector<int> sortedSquare(vector<int> a){
-vector<int> result(a.size());
-int left = 0, right = a.size()-1, ind = a.size()-1;
-while(left<=right){
-    if(a[left]*a[left]>a[right]*a[right]){
-        result[ind] = a[left]*a[left];
-        ind--;
-        left++;
-    }
-    else{
-        result[ind] = a[right]*a[right];
-        ind--;
-        right--;
-    }
+    vector<int> result(a.size());
+    int left = 0, right = a.size()-1, ind = a.size()-1;
+    while(left<=right){
+        if(a[left]*a[left]>a[right]*a[right]){
+            result[ind] = a[left]*a[left];
+            ind--;
+            left++;
+        }
+        else{
+            result[ind] = a[right]*a[right];
+            ind--;
+            right--;
+        }
 }
 
 return result;
