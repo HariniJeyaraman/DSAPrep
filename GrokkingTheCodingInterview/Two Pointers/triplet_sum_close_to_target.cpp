@@ -20,10 +20,12 @@ Explanation: The triplet [1, 1, 1] has the closest sum to the target.
 */
 #include<iostream>
 #include<cstdlib>
+#include<algorithm>
 #include<vector>
 using namespace std;
 
 int tripletSumClose(vector<int> a, int target){
+    sort(a.begin(),a.end());
     int left,right,minDiff,result=INT16_MAX;
     for(int i=0;i<a.size()-2;i++){
         left = i+1, right = a.size()-1;
