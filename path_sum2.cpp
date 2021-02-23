@@ -71,3 +71,26 @@ public:
             
     }
 };
+
+class Solution {
+public:
+    void dfs(TreeNode* root, int target, int currentSum, vector<vector<int>> &result, vector<int> path){
+        if(root==NULL)
+            return ;
+        path.push_back(root->val);
+        currentSum+=root->val;
+        if(root->left==NULL && root->right==NULL && currentSum==target){
+            result.push_back(path);
+        }
+        dfs(root->left, target, currentSum, result, path);
+        dfs(root->right, target, currentSum, result, path);   
+    }
+    
+    vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+        vector<vector<int>> result;
+        if(root==NULL) return result;
+        vector<int> path;
+        dfs(root, targetSum, 0, result, path);
+        return result;
+    }
+};
