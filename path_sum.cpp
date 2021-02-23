@@ -57,3 +57,19 @@ public:
      return false;
     }
 };
+
+class Solution {
+public:
+    bool dfs(TreeNode* root, int target, int currentSum){
+        if(root==NULL)
+            return false;
+        currentSum+=root->val;
+        if(root->left==NULL && root->right==NULL && currentSum==target)
+            return true;
+        return dfs(root->left, target, currentSum) || dfs(root->right, target, currentSum);
+    }
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        if(root==NULL) return false;
+        return dfs(root, targetSum, 0);
+    }
+};
