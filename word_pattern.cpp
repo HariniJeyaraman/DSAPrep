@@ -1,4 +1,6 @@
 /*
+https://leetcode.com/problems/word-pattern/discuss/1434099/C%2B%2B-0ms-or-Double-mapping-or-Well-commented
+
 290. Word Pattern
 Easy
 
